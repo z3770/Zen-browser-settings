@@ -147,7 +147,7 @@ user_pref("nebula-tab-loading-animation", 4);
 user_pref("nebula-tab-switch-animation", 4);
 user_pref("nebula-tabs-no-shadow", false);
 user_pref("nebula-workspace-style", 0);
-user_pref("zen.urlbar.replace-newtab", false);
+user_pref("zen.urlbar.replace-newtab", true);
 
 /****************************************************************************
  * END: NEBULA                                                           *
