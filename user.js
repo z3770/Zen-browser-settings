@@ -140,14 +140,6 @@ user_pref("mousewheel.default.delta_multiplier_y", 300); // 250-400; adjust this
 /****************************************************************************
  * SECTION: NEBULA                                                       *
 ****************************************************************************/
-user_pref("nebula-glow-gradient", 2);
-user_pref("nebula-nogaps-mod", false);
-user_pref("nebula-remove-workspace-indicator", false);
-user_pref("nebula-tab-loading-animation", 4);
-user_pref("nebula-tab-switch-animation", 4);
-user_pref("nebula-tabs-no-shadow", false);
-user_pref("nebula-workspace-style", 0);
-user_pref("zen.urlbar.replace-newtab", true);
 
 /****************************************************************************
  * END: NEBULA                                                           *
